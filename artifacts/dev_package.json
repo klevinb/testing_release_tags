@@ -7,7 +7,7 @@
 	},
 	"name": "new_testing_development",
 	"description": null,
-	"ver": "24.10.22.1202",
+	"ver": "24.10.22.1203",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"excludeTemplateFiles": false,
